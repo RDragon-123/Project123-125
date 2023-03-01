@@ -1,0 +1,16 @@
+#head{
+   font-size: 50px; 
+   margin-top: 0px;
+   padding-left: 840px;
+   padding-right: 840px;
+}
+#info{
+    font-size: 28.8px;
+}
+#footer{
+    background-color: gray;
+    text-align: center;
+    color: honeydew;
+    font-size: 20px;
+    margin-top: 880px;
+}
